@@ -1,4 +1,4 @@
--- made by badfreer
+-- RTX OMG
 
 
 -- script model: https://bit.ly/3uAMBCg
