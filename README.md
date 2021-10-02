@@ -1,5 +1,9 @@
 -- made by badfreer
+
+
 -- script model: https://cutt.ly/CEFVvbh
+
+
 -- raw: https://raw.githubusercontent.com/badzin/roblox-RTX-Script/main/README.md
 
 
