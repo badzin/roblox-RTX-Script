@@ -1,10 +1,10 @@
 -- made by badfreer
 
 
--- script model: https://cutt.ly/CEFVvbh
+-- script model: https://bit.ly/3uAMBCg
 
 
--- raw: https://raw.githubusercontent.com/badzin/roblox-RTX-Script/main/README.md
+-- raw: https://bit.ly/3B6KOYa
 
 
 local Vignette = true -- change to false if you don't want a shadow frame
